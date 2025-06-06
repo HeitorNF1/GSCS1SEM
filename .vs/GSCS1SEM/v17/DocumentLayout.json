@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|c:\\users\\heitornobrefarias\\gs\\gscs1sem\\gscs1sem\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|solutionrelative:gscs1sem\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|c:\\users\\heitornobrefarias\\gs\\gscs1sem\\gscs1sem\\repository\\alertarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|solutionrelative:gscs1sem\\repository\\alertarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|c:\\users\\heitornobrefarias\\gs\\gscs1sem\\gscs1sem\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|solutionrelative:gscs1sem\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|c:\\users\\heitornobrefarias\\gs\\gscs1sem\\gscs1sem\\repository\\falharepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|solutionrelative:gscs1sem\\repository\\falharepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|c:\\users\\heitornobrefarias\\gs\\gscs1sem\\gscs1sem\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|solutionrelative:gscs1sem\\model\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|c:\\users\\heitornobrefarias\\gs\\gscs1sem\\gscs1sem\\model\\falha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|solutionrelative:gscs1sem\\model\\falha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|c:\\users\\heitornobrefarias\\gs\\gscs1sem\\gscs1sem\\service\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|solutionrelative:gscs1sem\\service\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|c:\\users\\heitornobrefarias\\gs\\gscs1sem\\gscs1sem\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|solutionrelative:gscs1sem\\service\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|c:\\users\\heitornobrefarias\\gs\\gscs1sem\\gscs1sem\\controller\\alertacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|solutionrelative:gscs1sem\\controller\\alertacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|c:\\users\\heitornobrefarias\\gs\\gscs1sem\\gscs1sem\\model\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|solutionrelative:gscs1sem\\model\\alerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|c:\\users\\heitornobrefarias\\gs\\gscs1sem\\gscs1sem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|solutionrelative:gscs1sem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|c:\\users\\heitornobrefarias\\gs\\gscs1sem\\gscs1sem\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|solutionrelative:gscs1sem\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|c:\\users\\heitornobrefarias\\gs\\gscs1sem\\gscs1sem\\controller\\falhacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28B84253-E17F-4CA0-8F30-F210FF147A76}|GSCS1SEM\\GSCS1SEM.csproj|solutionrelative:gscs1sem\\controller\\falhacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\.gitignore",
+              "RelativeDocumentMoniker": "GSCS1SEM\\.gitignore",
+              "ToolTip": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\.gitignore",
+              "RelativeToolTip": "GSCS1SEM\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-06T13:33:01.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlertaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Repository\\AlertaRepository.cs",
+              "RelativeDocumentMoniker": "GSCS1SEM\\Repository\\AlertaRepository.cs",
+              "ToolTip": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Repository\\AlertaRepository.cs",
+              "RelativeToolTip": "GSCS1SEM\\Repository\\AlertaRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:18:31.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Alerta.cs",
+              "DocumentMoniker": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Model\\Alerta.cs",
+              "RelativeDocumentMoniker": "GSCS1SEM\\Model\\Alerta.cs",
+              "ToolTip": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Model\\Alerta.cs",
+              "RelativeToolTip": "GSCS1SEM\\Model\\Alerta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:17:41.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FalhaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Repository\\FalhaRepository.cs",
+              "RelativeDocumentMoniker": "GSCS1SEM\\Repository\\FalhaRepository.cs",
+              "ToolTip": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Repository\\FalhaRepository.cs",
+              "RelativeToolTip": "GSCS1SEM\\Repository\\FalhaRepository.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAUwIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T01:32:33.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Service\\MenuService.cs",
+              "RelativeDocumentMoniker": "GSCS1SEM\\Service\\MenuService.cs",
+              "ToolTip": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Service\\MenuService.cs",
+              "RelativeToolTip": "GSCS1SEM\\Service\\MenuService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T00:25:19.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Service\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "GSCS1SEM\\Service\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Service\\UsuarioService.cs",
+              "RelativeToolTip": "GSCS1SEM\\Service\\UsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:02:03.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Falha.cs",
+              "DocumentMoniker": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Model\\Falha.cs",
+              "RelativeDocumentMoniker": "GSCS1SEM\\Model\\Falha.cs",
+              "ToolTip": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Model\\Falha.cs",
+              "RelativeToolTip": "GSCS1SEM\\Model\\Falha.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T00:06:42.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Model\\Usuario.cs",
+              "RelativeDocumentMoniker": "GSCS1SEM\\Model\\Usuario.cs",
+              "ToolTip": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Model\\Usuario.cs",
+              "RelativeToolTip": "GSCS1SEM\\Model\\Usuario.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:29:38.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "GSCS1SEM\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "GSCS1SEM\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T16:24:48.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlertaController.cs",
+              "DocumentMoniker": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Controller\\AlertaController.cs",
+              "RelativeDocumentMoniker": "GSCS1SEM\\Controller\\AlertaController.cs",
+              "ToolTip": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Controller\\AlertaController.cs",
+              "RelativeToolTip": "GSCS1SEM\\Controller\\AlertaController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T01:23:17.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FalhaController.cs",
+              "DocumentMoniker": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Controller\\FalhaController.cs",
+              "RelativeDocumentMoniker": "GSCS1SEM\\Controller\\FalhaController.cs",
+              "ToolTip": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Controller\\FalhaController.cs",
+              "RelativeToolTip": "GSCS1SEM\\Controller\\FalhaController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T02:55:58.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Controller\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "GSCS1SEM\\Controller\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Controller\\UsuarioController.cs",
+              "RelativeToolTip": "GSCS1SEM\\Controller\\UsuarioController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:20:35.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Program.cs",
+              "RelativeDocumentMoniker": "GSCS1SEM\\Program.cs",
+              "ToolTip": "C:\\Users\\HeitorNobreFarias\\GS\\GSCS1SEM\\GSCS1SEM\\Program.cs",
+              "RelativeToolTip": "GSCS1SEM\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T00:00:45.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
